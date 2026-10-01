@@ -1,6 +1,6 @@
 # quiz-github-A11.2023.15316
 
-**Nama:** Kholifah Rana Almadina
+* **Nama:** Kholifah Rana Almadina
 * **NIM:** A11.2023.15316
 * **Kelas:** DEV-02
 * **Mata Kuliah:** Bengkel Koding
